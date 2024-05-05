@@ -12,3 +12,4 @@ E:\RSA_sifreleme\obj\Debug\net8.0\refint\RSA_sifreleme.dll
 E:\RSA_sifreleme\obj\Debug\net8.0\RSA_sifreleme.pdb
 E:\RSA_sifreleme\obj\Debug\net8.0\RSA_sifreleme.genruntimeconfig.cache
 E:\RSA_sifreleme\obj\Debug\net8.0\ref\RSA_sifreleme.dll
+E:\RSA_sifreleme\obj\Debug\net8.0\RSA_sifreleme.sourcelink.json

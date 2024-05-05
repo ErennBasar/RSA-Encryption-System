@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RSA_sifreleme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0e5c166e45a3c1ae8cb0abd778970287d51ad7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7330178714ff9edf878adf1faaee2d2cbef7d4dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("RSA_sifreleme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RSA_sifreleme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

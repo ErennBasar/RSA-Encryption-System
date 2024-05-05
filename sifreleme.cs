@@ -10,6 +10,8 @@ public class Sifreleme
     {
 
         System.Console.WriteLine("sifrelenecek veriyi giriniz: ");
+
+        
         long msg = Convert.ToInt64(Console.ReadLine());
 
 
